@@ -1,0 +1,35 @@
+{
+  "users": {
+    "123": {
+      "address": {
+        "line1": "100 Mountain View"
+      },
+      "age": 18,
+      "name": "John"
+    }
+  },
+  "Questions": {
+    "1": {
+      "question":  "Fundamental Rights are mentioned in which part of the constitution?",
+      "a": "Part I",
+      "b":
+      "Part II",
+      "c":
+      "part IV",
+      "d":
+      "Part III",
+      "answer": "a"
+    },
+    "2": {
+      "question":  "Fundamental Rights were borrowed from which country?",
+      "a": "Ireland",
+      "b":
+      "USA",
+      "c":
+      "UK",
+      "d":
+      "Germany",
+      "answer": "a"
+    }
+  }
+}
